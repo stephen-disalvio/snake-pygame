@@ -6,6 +6,7 @@ Made with PyGame
 import pygame, sys, time, random
 
 # add a comment
+# add another comment
 # Difficulty settings
 # Easy      ->  10
 # Medium    ->  25
